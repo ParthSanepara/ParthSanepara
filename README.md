@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ParthSanepara&show_icons=true)
+![Profile View Counter](https://komarev.com/ghpvc/?username=ParthSanepara)
+
 
