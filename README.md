@@ -27,17 +27,6 @@ Here are some ideas to get you started:
 
 ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ParthSanepara&theme=nord)
 
-<a href="https://www.linkedin.com/in/parthsanepara/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
---------------------------------------------------------------------------------------------------------------------------------------
-<h1 align="center">Hi 👋, I'm Parth Sanepara</h1>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parthsanepara&label=Profile%20views&color=0e75b6&style=flat" alt="parthsanepara" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthsanepara" alt="parthsanepara" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
