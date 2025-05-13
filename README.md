@@ -44,6 +44,13 @@ An open-source smart label platform using e-Ink displays and ultra-low-power wir
 - ⌚ Wearables: Health + fitness-focused ultra-low-power systems
 
 
+<h4 align="center">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=c&text=false&animation=spin&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=neovim&text=false&animation=spin&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=linux&text=false&animation=spin&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=rust&text=false&animation=spin&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=python&text=false&animation=spin&fill=black&textfill=bface6&">
+</h4>
 
 
 <h3 align="left">Connect with me:</h3>
