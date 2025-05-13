@@ -24,18 +24,23 @@ Here are some ideas to get you started:
 ## 🚀 Projects I'm Building 
 
 ### 🏷️ [PSLabel](https://github.com/hprs-in/PSLabel)
-An open-source smart label platform using eInk displays and ultra-low-power wireless tech.
+An open-source smart label platform using e-Ink displays and ultra-low-power wireless tech(ESL).
 
 
 - 📶 BLE (Bluetooth Low Energy)
 - 📳 NFC Tag Support (Planned)
-- 🔋 Powered by Nordic MCUs for ultra low power
+- 🔋 Powered by Nordic MCUs for ultra low power ,Long battery life cycle
 - 🌱 Built for sustainability, scalability, and integration with IoT platforms
-- 👥 Community-driven and open for contributions!
+- 👥 Fully open-source and community-driven
 
 > Check it out: [PSLabel on GitHub](https://github.com/hprs-in/PSLabel)
 
+## 🧠 Currently Exploring
 
+- 📡 LPWAN (NB-IoT / LTE-M) and satellite IoT (NTN)
+- 🌍 Edge AI for embedded applications
+- ⚙️ RTOS development with Zephyr and FreeRTOS
+- 🔐 Secure OTA updates and bootloaders
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/parthsanepara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="parthsanepara" height="30" width="40" /></a>
