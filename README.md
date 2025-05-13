@@ -37,10 +37,15 @@ An open-source smart label platform using e-Ink displays and ultra-low-power wir
 
 ## 🧠 Currently Exploring
 
-- 📡 LPWAN (NB-IoT / LTE-M) and satellite IoT (NTN)
-- 🌍 Edge AI for embedded applications
-- ⚙️ RTOS development with Zephyr and FreeRTOS
-- 🔐 Secure OTA updates and bootloaders
+- 📡 LPWAN Technologies: NB-IoT, LTE-M, LoRaWAN
+- 🛰️ NTN (Non-Terrestrial Networks) for Satellite IoT
+- 🌍 Edge AI intelligent for embedded applications
+- 🌾 Smart Farming Platforms: End-to-end IoT for agriculture
+- ⌚ Wearables: Health + fitness-focused ultra-low-power systems
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/parthsanepara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="parthsanepara" height="30" width="40" /></a>
