@@ -1,4 +1,8 @@
-### Hi there 👋
+### 👋 Hi, I'm Parth Sanepara
+
+🚀 Passionate Embedded Systems Engineer | IoT Innovator | Firmware Developer  
+🎯 On a mission to build intelligent, low-power, and connected devices
+
 
 <!--
 **ParthSanepara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -43,6 +47,11 @@ An open-source smart label platform using e-Ink displays and ultra-low-power wir
 - 🌾 Smart Farming Platforms: End-to-end IoT for agriculture
 - ⌚ Wearables: Health + fitness-focused ultra-low-power systems
 
+## 🤝 I’m Looking to Collaborate On
+
+- 🔋 Ultra-low-power embedded designs  
+- 🌐 Open-source hardware/software for connected devices  
+- 📡 Satellite-enabled IoT & global communication solutions  
 
 <h4 align="center">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=c&text=false&animation=spin&fill=black&textfill=bface6&">
