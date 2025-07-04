@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=ParthSanepara)
+![Profile View Counter](https://komarev.com/ghpvc/?username=ParthSanepara) [![GitHub followers](https://img.shields.io/github/followers/ParthSanepara.svg?style=social&label=Follow)](https://github.com/ParthSanepara?tab=followers)<br/>
 
 
 
