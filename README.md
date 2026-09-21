@@ -104,17 +104,16 @@ Chrome extension to **sync branches between GitHub repositories** without leavin
 
 <h4 align="center">Silicon & RTOS</h4>
 <h4 align="center">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=nordicsemiconductor&text=false&animation=spin&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=zephyrproject&text=false&animation=spin&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=espressif&text=false&animation=spin&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=stmicroelectronics&text=false&animation=spin&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=arm&text=false&animation=spin&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=arduino&text=false&animation=spin&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=raspberrypi&text=false&animation=spin&fill=black&textfill=bface6&">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=linux&text=false&animation=spin&fill=black&textfill=bface6&">
 </h4>
 
 <h4 align="center">Connectivity & Cloud</h4>
 <h4 align="center">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=bluetooth&text=false&animation=spin&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=mqtt&text=false&animation=spin&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=nodered&text=false&animation=spin&fill=black&textfill=bface6&">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=amazonaws&text=false&animation=spin&fill=black&textfill=bface6&">
 </h4>
 
@@ -126,7 +125,7 @@ Chrome extension to **sync branches between GitHub repositories** without leavin
 <img src="https://readme-components.vercel.app/api?component=logo&logo=docker&text=false&animation=spin&fill=black&textfill=bface6&">
 </h4>
 
-<p align="center"><sub>BLE • Channel Sounding • NB-IoT / LTE-M • LoRaWAN • nRF Connect SDK • AWS IoT Core</sub></p>
+<p align="center"><sub>Nordic nRF52 / nRF54 / nRF91 • Zephyr RTOS • nRF Connect SDK • ESP32 • STM32<br/>BLE • Channel Sounding • NB-IoT / LTE-M • LoRaWAN • MQTT • AWS IoT Core</sub></p>
 
 ---
 
