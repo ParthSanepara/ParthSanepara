@@ -94,36 +94,39 @@ Chrome extension to **sync branches between GitHub repositories** without leavin
 
 ### 🛠️ Tech Stack
 
-**Silicon & RTOS**
-<p>
-  <img src="https://img.shields.io/badge/Nordic_nRF52%20%7C%20nRF54%20%7C%20nRF91-00A9CE?style=flat-square&logo=nordicsemiconductor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zephyr_RTOS-7929D2?style=flat-square&logo=zephyrproject&logoColor=white" />
-  <img src="https://img.shields.io/badge/nRF_Connect_SDK-00A9CE?style=flat-square&logo=nordicsemiconductor&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Embedded_Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-</p>
+<h4 align="center">Languages</h4>
+<h4 align="center">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=c&text=false&animation=spin&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=cplusplus&text=false&animation=spin&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=rust&text=false&animation=spin&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=python&text=false&animation=spin&fill=black&textfill=bface6&">
+</h4>
 
-**Connectivity & Cloud**
-<p>
-  <img src="https://img.shields.io/badge/Bluetooth_LE-0082FC?style=flat-square&logo=bluetooth&logoColor=white" />
-  <img src="https://img.shields.io/badge/NB--IoT%20%2F%20LTE--M-4B8BBE?style=flat-square" />
-  <img src="https://img.shields.io/badge/LoRaWAN-1E3A5F?style=flat-square" />
-  <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_IoT_Core-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-</p>
+<h4 align="center">Silicon & RTOS</h4>
+<h4 align="center">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=nordicsemiconductor&text=false&animation=spin&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=zephyrproject&text=false&animation=spin&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=espressif&text=false&animation=spin&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=stmicroelectronics&text=false&animation=spin&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=linux&text=false&animation=spin&fill=black&textfill=bface6&">
+</h4>
 
-**Languages & Tools**
-<p>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</p>
+<h4 align="center">Connectivity & Cloud</h4>
+<h4 align="center">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=bluetooth&text=false&animation=spin&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=mqtt&text=false&animation=spin&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=amazonaws&text=false&animation=spin&fill=black&textfill=bface6&">
+</h4>
+
+<h4 align="center">Tools</h4>
+<h4 align="center">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=neovim&text=false&animation=spin&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=git&text=false&animation=spin&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=cmake&text=false&animation=spin&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=docker&text=false&animation=spin&fill=black&textfill=bface6&">
+</h4>
+
+<p align="center"><sub>BLE • Channel Sounding • NB-IoT / LTE-M • LoRaWAN • nRF Connect SDK • AWS IoT Core</sub></p>
 
 ---
 
