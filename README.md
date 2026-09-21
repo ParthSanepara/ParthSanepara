@@ -160,28 +160,21 @@ Chrome extension to **sync branches between GitHub repositories** without leavin
 ### 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ParthSanepara&theme=tokyonight" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ParthSanepara&theme=tokyonight" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ParthSanepara&theme=tokyonight" height="200" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ParthSanepara&theme=tokyonight" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ParthSanepara&theme=tokyonight&utcOffset=5.5" height="200" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=ParthSanepara&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FParthSanepara&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=203a43&labelColor=0f2027&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FParthSanepara&query=%24.followers&label=Followers&style=for-the-badge&color=203a43&labelColor=0f2027&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FParthSanepara&query=%24.public_gists&label=Gists&style=for-the-badge&color=203a43&labelColor=0f2027&logo=gist&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=ParthSanepara&style=for-the-badge&color=203a43&label=Profile+Views" />
-</p>
-
-<h4 align="center">📌 Repository Highlights</h4>
-
-<p align="center">
-  <a href="https://github.com/hprs-in/PSLabel">
-    <img src="https://img.shields.io/github/stars/hprs-in/PSLabel?style=for-the-badge&logo=github&label=PSLabel%20%E2%98%85&color=203a43&labelColor=0f2027" />
-  </a>
-  <a href="https://github.com/hprs-in/PSLabel">
-    <img src="https://img.shields.io/github/languages/top/hprs-in/PSLabel?style=for-the-badge&color=203a43&labelColor=0f2027" />
-  </a>
-  <a href="https://github.com/hprs-in/PSLabel/commits">
-    <img src="https://img.shields.io/github/last-commit/hprs-in/PSLabel?style=for-the-badge&color=203a43&labelColor=0f2027&label=Last%20Commit" />
-  </a>
 </p>
 
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
