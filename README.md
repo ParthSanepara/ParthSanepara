@@ -159,19 +159,6 @@ Chrome extension to **sync branches between GitHub repositories** without leavin
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ParthSanepara&theme=tokyonight" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ParthSanepara&theme=tokyonight" height="200" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ParthSanepara&theme=tokyonight" height="200" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ParthSanepara&theme=tokyonight" height="200" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ParthSanepara&theme=tokyonight&utcOffset=5.5" height="200" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ParthSanepara&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
