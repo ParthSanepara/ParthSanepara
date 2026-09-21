@@ -160,20 +160,28 @@ Chrome extension to **sync branches between GitHub repositories** without leavin
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=ParthSanepara&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FParthSanepara&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=203a43&labelColor=0f2027&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FParthSanepara&query=%24.followers&label=Followers&style=for-the-badge&color=203a43&labelColor=0f2027&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FParthSanepara&query=%24.public_gists&label=Gists&style=for-the-badge&color=203a43&labelColor=0f2027&logo=gist&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=ParthSanepara&style=for-the-badge&color=203a43&label=Profile+Views" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ParthSanepara&theme=tokyonight&hide_border=true" />
-</p>
+<h4 align="center">📌 Repository Highlights</h4>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ParthSanepara&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <a href="https://github.com/hprs-in/PSLabel">
+    <img src="https://img.shields.io/github/stars/hprs-in/PSLabel?style=for-the-badge&logo=github&label=PSLabel%20%E2%98%85&color=203a43&labelColor=0f2027" />
+  </a>
+  <a href="https://github.com/hprs-in/PSLabel">
+    <img src="https://img.shields.io/github/languages/top/hprs-in/PSLabel?style=for-the-badge&color=203a43&labelColor=0f2027" />
+  </a>
+  <a href="https://github.com/hprs-in/PSLabel/commits">
+    <img src="https://img.shields.io/github/last-commit/hprs-in/PSLabel?style=for-the-badge&color=203a43&labelColor=0f2027&label=Last%20Commit" />
+  </a>
 </p>
 
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
