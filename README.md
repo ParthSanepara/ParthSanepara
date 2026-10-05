@@ -85,7 +85,9 @@ Multi-tenant **IoT platform** connecting low-power devices to the cloud, with ve
 #### 🔁 [GitSync](https://chromewebstore.google.com/detail/gitsync/bnojofeconokhnddefoabfhabgdlmhkj) — 🚀 *Live on Product Hunt*
 Chrome extension to **sync branches between GitHub repositories** without leaving the browser — full history or latest commit only, into an existing or new branch. Sign-in via GitHub OAuth device flow; git runs over HTTPS straight from the browser, **no GitSync server in the path**.
 
-<a href="https://www.producthunt.com/products/gitsync/reviews/new?utm_source=badge-product_review&utm_medium=badge&utm_source=badge-gitsync" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/product_review.svg?product_id=1332709&theme=neutral" alt="GitSync - Sync branches between GitHub repos, right from Chrome | Product Hunt" width="250" height="54" /></a>
+<a href="https://www.producthunt.com/products/gitsync/reviews/new?utm_source=badge-product_review&utm_medium=badge&utm_source=badge-gitsync" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/product_review.svg?product_id=1332709&theme=neutral" alt="GitSync - Sync&#0032;branches&#0032;between&#0032;GitHub&#0032;repos&#0044;&#0032;right&#0032;from&#0032;Chrome | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
+⭐ **Tried GitSync?** [Leave a quick review on Product Hunt](https://www.producthunt.com/products/gitsync/reviews/new) — it really helps an indie launch.
 
 <a href="https://chromewebstore.google.com/detail/gitsync/bnojofeconokhnddefoabfhabgdlmhkj"><img src="https://img.shields.io/chrome-web-store/v/bnojofeconokhnddefoabfhabgdlmhkj?style=flat-square&logo=googlechrome&logoColor=white&label=Chrome%20Web%20Store&color=4285F4" alt="GitSync on the Chrome Web Store" /></a>
 <a href="https://chromewebstore.google.com/detail/gitsync/bnojofeconokhnddefoabfhabgdlmhkj"><img src="https://img.shields.io/chrome-web-store/users/bnojofeconokhnddefoabfhabgdlmhkj?style=flat-square&logo=googlechrome&logoColor=white&label=users&color=34A853" alt="GitSync users" /></a>
@@ -163,6 +165,7 @@ Chrome extension to **sync branches between GitHub repositories** without leavin
 - 🌐 Open-source hardware/firmware for connected devices
 - 📡 Satellite-enabled and cellular IoT solutions
 - 🧪 **Need a BLE firmware review or nRF feasibility check?** Reach out on [LinkedIn](https://linkedin.com/in/parthsanepara).
+- ⭐ **Using GitSync?** I'd love your feedback — [write a review on Product Hunt](https://www.producthunt.com/products/gitsync/reviews/new) or [open an issue](https://github.com/ParthSanepara/GitSync/issues).
 
 ---
 
