@@ -86,6 +86,7 @@ Multi-tenant **IoT platform** connecting low-power devices to the cloud, with ve
 Chrome extension to **sync branches between GitHub repositories** without leaving the browser — full history or latest commit only, into an existing or new branch. Sign-in via GitHub OAuth device flow; git runs over HTTPS straight from the browser, **no GitSync server in the path**.
 
 <a href="https://www.producthunt.com/products/gitsync/reviews/new?utm_source=badge-product_review&utm_medium=badge&utm_source=badge-gitsync" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/product_review.svg?product_id=1332709&theme=neutral" alt="GitSync - Sync&#0032;branches&#0032;between&#0032;GitHub&#0032;repos&#0044;&#0032;right&#0032;from&#0032;Chrome | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+<a href="https://www.producthunt.com/products/gitsync?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-gitsync" target="_blank" rel="noopener noreferrer"><img alt="GitSync - Sync branches between GitHub repos, right from Chrome | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1267063&amp;theme=light&amp;t=1791224339707"></a>
 
 ⭐ **Tried GitSync?** [Leave a quick review on Product Hunt](https://www.producthunt.com/products/gitsync/reviews/new) — it really helps an indie launch.
 
