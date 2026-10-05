@@ -36,7 +36,7 @@ static const engineer_t parth = {
     .location         = "Bengaluru, India 🇮🇳",
     .years_experience = 7,
     .focus            = { "BLE & Channel Sounding", "Zephyr RTOS",
-                          "Cellular IoT (NB-IoT/LTE-M)", "Ultra-low-power design" },
+                          "Cellular IoT (NB-IoT/LTE-M)", "Ultra-low-power design", "Wearable Tech", "Industrial IoT" },
     .motto            = "Every microamp counts. ⚡",
 };
 ```
@@ -44,7 +44,7 @@ static const engineer_t parth = {
 - 🏢 Senior Embedded Firmware Engineer at **Thingularity Consulting**
 - 🔬 I take devices from **schematic review → board bring-up → firmware → cloud** (AWS IoT Core)
 - 🧩 Independent consultant for **BLE code reviews** and **nRF feasibility assessments**
-- 🌱 Building an open **IoT platform (HPRS)** and developer tools on the side — latest: **[GitSync](https://github.com/ParthSanepara/GitSync)**, now launching on Product Hunt
+- 🌱 Building an open **IoT platform (HPRS)** and developer tools on the side — latest: **[GitSync](https://chromewebstore.google.com/detail/gitsync/bnojofeconokhnddefoabfhabgdlmhkj)**
 - 🛡️ Learning and adapting to the **EU Cyber Resilience Act (CRA)** — bringing secure-by-design practices into embedded firmware
 - 💬 Ask me about **Zephyr, nRF Connect SDK, BLE power optimization, and battery-life budgeting**
 
