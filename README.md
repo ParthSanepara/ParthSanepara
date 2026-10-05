@@ -44,7 +44,8 @@ static const engineer_t parth = {
 - 🏢 Senior Embedded Firmware Engineer at **Thingularity Consulting**
 - 🔬 I take devices from **schematic review → board bring-up → firmware → cloud** (AWS IoT Core)
 - 🧩 Independent consultant for **BLE code reviews** and **nRF feasibility assessments**
-- 🌱 Building an open **IoT platform (HPRS)** and developer tools on the side
+- 🌱 Building an open **IoT platform (HPRS)** and developer tools on the side — latest: **[GitSync](https://github.com/ParthSanepara/GitSync)**, now launching on Product Hunt
+- 🛡️ Learning and adapting to the **EU Cyber Resilience Act (CRA)** — bringing secure-by-design practices into embedded firmware
 - 💬 Ask me about **Zephyr, nRF Connect SDK, BLE power optimization, and battery-life budgeting**
 
 ---
@@ -81,10 +82,15 @@ Multi-tenant **IoT platform** connecting low-power devices to the cloud, with ve
 </td>
 <td width="50%" valign="top">
 
-#### 🔁 GitSync *(WIP)*
-Chrome extension to **sync branches between GitHub repositories** without leaving the browser.
+#### 🔁 [GitSync](https://github.com/ParthSanepara/GitSync) — 🚀 *Live on Product Hunt*
+Chrome extension to **sync branches between GitHub repositories** without leaving the browser — full history or latest commit only, into an existing or new branch. Sign-in via GitHub OAuth device flow; git runs over HTTPS straight from the browser, **no GitSync server in the path**.
 
-`Chrome Extension` `GitHub API` `JavaScript`
+<!-- TODO: replace the two URLs below with the live Product Hunt and Chrome Web Store listings before merging to main -->
+<a href="PRODUCT_HUNT_URL"><img src="https://img.shields.io/badge/Product%20Hunt-Launching%20now-DA552F?style=flat-square&logo=producthunt&logoColor=white" /></a>
+<a href="CHROME_WEB_STORE_URL"><img src="https://img.shields.io/badge/Chrome%20Web%20Store-v0.2.0-4285F4?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+<a href="https://github.com/ParthSanepara/GitSync/issues"><img src="https://img.shields.io/badge/Issues%20%26%20feedback-public%20repo-181717?style=flat-square&logo=github" /></a>
+
+`Chrome Extension` `GitHub API` `OAuth Device Flow` `JavaScript`
 
 </td>
 </tr>
@@ -141,6 +147,7 @@ Chrome extension to **sync branches between GitHub repositories** without leavin
 
 | Area | What I'm digging into |
 |---|---|
+| 🛡️ **EU Cyber Resilience Act (CRA)** | Secure boot & signed OTA, SBOMs, vulnerability handling and coordinated disclosure — applied to nRF / Zephyr products |
 | 📏 **BLE Channel Sounding & UWB** | High-accuracy distance measurement for tags and trackers |
 | 📡 **LPWAN** | NB-IoT, LTE-M, LoRaWAN — power profiles and coverage trade-offs |
 | 🛰️ **NTN** | Non-Terrestrial Networks for satellite IoT |
