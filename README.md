@@ -82,12 +82,13 @@ Multi-tenant **IoT platform** connecting low-power devices to the cloud, with ve
 </td>
 <td width="50%" valign="top">
 
-#### 🔁 [GitSync](https://github.com/ParthSanepara/GitSync) — 🚀 *Live on Product Hunt*
+#### 🔁 [GitSync](https://chromewebstore.google.com/detail/gitsync/bnojofeconokhnddefoabfhabgdlmhkj) — 🚀 *Live on Product Hunt*
 Chrome extension to **sync branches between GitHub repositories** without leaving the browser — full history or latest commit only, into an existing or new branch. Sign-in via GitHub OAuth device flow; git runs over HTTPS straight from the browser, **no GitSync server in the path**.
 
-<!-- TODO: replace the two URLs below with the live Product Hunt and Chrome Web Store listings before merging to main -->
-<a href="PRODUCT_HUNT_URL"><img src="https://img.shields.io/badge/Product%20Hunt-Launching%20now-DA552F?style=flat-square&logo=producthunt&logoColor=white" /></a>
-<a href="CHROME_WEB_STORE_URL"><img src="https://img.shields.io/badge/Chrome%20Web%20Store-v0.2.0-4285F4?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.producthunt.com/products/gitsync/reviews/new?utm_source=badge-product_review&utm_medium=badge&utm_source=badge-gitsync" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/product_review.svg?product_id=1332709&theme=neutral" alt="GitSync - Sync branches between GitHub repos, right from Chrome | Product Hunt" width="250" height="54" /></a>
+
+<a href="https://chromewebstore.google.com/detail/gitsync/bnojofeconokhnddefoabfhabgdlmhkj"><img src="https://img.shields.io/chrome-web-store/v/bnojofeconokhnddefoabfhabgdlmhkj?style=flat-square&logo=googlechrome&logoColor=white&label=Chrome%20Web%20Store&color=4285F4" alt="GitSync on the Chrome Web Store" /></a>
+<a href="https://chromewebstore.google.com/detail/gitsync/bnojofeconokhnddefoabfhabgdlmhkj"><img src="https://img.shields.io/chrome-web-store/users/bnojofeconokhnddefoabfhabgdlmhkj?style=flat-square&logo=googlechrome&logoColor=white&label=users&color=34A853" alt="GitSync users" /></a>
 <a href="https://github.com/ParthSanepara/GitSync/issues"><img src="https://img.shields.io/badge/Issues%20%26%20feedback-public%20repo-181717?style=flat-square&logo=github" /></a>
 
 `Chrome Extension` `GitHub API` `OAuth Device Flow` `JavaScript`
